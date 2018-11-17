@@ -62,6 +62,7 @@ extern crate termcolor;
 extern crate toml;
 extern crate unicode_width;
 extern crate url;
+extern crate winsize;
 
 use std::fmt;
 

@@ -58,6 +58,7 @@ toml = "0.4.2"
 url = "1.1"
 clap = "2.31.2"
 unicode-width = "0.1.5"
+winsize = { git = "https://github.com/wezm/winsize.git", branch = "ci" }
 openssl = { version = '0.10.11', optional = true }
 
 # A noop dependency that changes in the Rust repository, it's a bit of a hack.
